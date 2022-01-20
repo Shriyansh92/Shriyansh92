@@ -1,10 +1,3 @@
-### Hi there 👋
-
-<!--
-**Shriyansh92/Shriyansh92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-
 <h1 align="center">Hi 👋, I'm Shriyansh</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
